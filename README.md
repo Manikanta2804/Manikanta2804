@@ -72,7 +72,7 @@
 </p
  <div align="center" style="margin-top: 20px;">
     <h3 style="color: #4CAF50;">📊 GitHub Stats</h3>
-    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+    <div style="display: flex; align:center; justify-content: center; flex-wrap: wrap; gap: 20px;">
       <img src="https://github-readme-stats.vercel.app/api?username=manikanta2804&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="max-width: 30%; height: auto; min-width: 200px;" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=manikanta2804&theme=radical&hide_border=true" alt="GitHub Streak Stats" style="max-width: 30%; height: auto; min-width: 200px;" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manikanta2804&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="Top Languages" style="max-width: 30%; height: auto; min-width: 200px;" />
