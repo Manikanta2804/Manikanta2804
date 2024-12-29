@@ -28,7 +28,7 @@
 <p align="center">
 <a href="https://codepen.io/manikanta sangani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="manikanta sangani" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manikanta sangani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manikanta sangani" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/manikanta sangani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manikanta sangani" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/varma182869" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manikanta sangani" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Programming Languages:</h3>
