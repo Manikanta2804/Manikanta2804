@@ -4,7 +4,11 @@
 <h3 align="center" style="color: #4CAF50; font-size: 1.2rem; margin-bottom: 20px;">Aspiring SDE/Data Scientist Intern | Sophomore in CSE @ SRU | Active Learner | Programming Skills: Java, Python | Problem Solver | Tech Enthusiast | Certified in AWS and Java Basics</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=manikanta2804&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="margin-bottom: 20px;" />
+<img 
+  src="https://komarev.com/ghpvc/?username=manikanta2804&label=Profile%20views&color=0e75b6&style=flat" 
+  alt="Profile Views" 
+  style="margin-bottom: 20px; border: 2px solid #4CAF50; border-radius: 8px; padding: 5px;" 
+/>
 </div>
 
 <div align="center">
