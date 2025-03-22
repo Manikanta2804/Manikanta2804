@@ -19,7 +19,7 @@
 
 <hr style="border: 1px solid #4CAF50; margin-bottom: 20px;" />
 - 🌱 I’m currently learning **Django, Php**<br>
-- 👨‍💻 All of my projects are available at <a href="https://manikanta2804.github.io/portfolio/">My Portfolio</a><br>
+- 👨‍💻 All of my projects are available at <a href="https://manikantaportfolio-eta.vercel.app/">My Portfolio</a><br>
 - 💬 Ask me about **Aiml, Dsa**<br>
 - 📫 How to reach me: **manikantasangani38@gmail.com**<br>
 - 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1sqLyCRQV6i-K2KKgpFMVrg-JB-4sue_5/view?usp=sharing">My Resume</a>
